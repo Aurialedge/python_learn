@@ -1,0 +1,10 @@
+Q2) Use the REPL to print 5's table
+Go to REPL or command prompt
+
+Than type python
+than start executing the python program
+
+Method 1) Manually like 5*1 than enter
+5*2 and enter and go on
+
+Method 2) see two.py
