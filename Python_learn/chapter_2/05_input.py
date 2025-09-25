@@ -1,6 +1,6 @@
 a=input("Enter the number 1: ")
 b=input("Enter the number 2: ")
-
+print(type(a))  # By default input() returns a string
 print("Number 1 is:", a)
 print("Number 2 is:", b)
 
@@ -10,7 +10,7 @@ print(a + b)  # This will concatenate the strings, not add them as numbers
 #         510
 #  String concatenation occurs
 
-# toget sum do the type casting
+# To get sum do the type casting
 a = int(a)
 b = int(b)
 print("Sum of the numbers is:", a + b)  # This will now add the numbers correctly
